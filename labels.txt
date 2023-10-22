@@ -1,0 +1,7 @@
+0 Dog
+1 Cat
+2 Elephant
+3 human
+4 Leopard
+5 Tiger
+6 Lion
